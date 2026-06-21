@@ -371,7 +371,7 @@ namespace WindowsFormsApp1
         {
             System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
             {
-                FileName = "https://github.com/[baranrslann]/projenin-linki/issues",
+                FileName = "https://github.com/baranrslann/Notepad-App-CS/issues",
                 UseShellExecute = true
             });
         }

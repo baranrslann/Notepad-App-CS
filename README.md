@@ -8,7 +8,8 @@ C# ve Windows Forms kullanılarak geliştirilmiş, tamamen işlevsel bir Windows
 
 ### 📸 Ekran Görüntüleri
 <img width="977" height="618" alt="Notepad 1" src="https://github.com/user-attachments/assets/b1294a80-8f74-4468-99dc-14f00969d6a5" />
-<img width="978" height="615" alt="Notepad 2" src="https://github.com/user-attachments/assets/cc18789a-2783-41ce-befa-5c36fa7bd9dd" />
+<img width="974" height="612" alt="Notepad 3" src="https://github.com/user-attachments/assets/4e8cba86-d442-4cdb-96f3-96f6641188d2" />
+
 
 
 ### ✨ Özellikler ve Kısayollar

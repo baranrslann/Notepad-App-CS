@@ -20,7 +20,7 @@ C# ve Windows Forms kullanılarak geliştirilmiş, tamamen işlevsel bir Windows
 ### 🛠️ Kullanılan Teknolojiler
 * **Dil:** C#
 * **Framework:** .NET / Windows Forms
-* **Geliştirme Ortamı:** Visual Studio
+* **Geliştirme Ortamı:** Visual Studio 2022
 </details>
 
 ---
@@ -45,5 +45,5 @@ A fully functional Windows Notepad clone developed in **C#** using **Windows For
 ### 🛠️ Technologies Used
 * **Language:** C#
 * **Framework:** .NET / Windows Forms
-* **IDE:** Visual Studio
+* **IDE:** Visual Studio 2022
 </details>
